@@ -1,0 +1,2 @@
+For versions in channel !versions
+Only one verse at a time for now example niv gen 1:1
